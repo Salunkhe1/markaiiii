@@ -1,4 +1,6 @@
-import { createUser } from "../services/userService";
+
+import { createUser } from "../Services/userService";
+
 import { useState } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 
